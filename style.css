@@ -26,3 +26,11 @@ a{
     background-color: rgba(8, 8, 8, 0.288);
     color: coral;
 }
+.about{
+    background-color: rgb(180, 88, 88);
+    height: 30vh;
+    width: 40%;
+    text-align: justify;
+    padding: 10px;
+    border-radius: 10px;
+}
